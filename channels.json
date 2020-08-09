@@ -1,0 +1,49 @@
+{
+  "channels": [
+    {
+      "url":"http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png",
+      "title":"Channel Win"
+    },
+	{
+      "url":"http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png",
+      "title":"Zainabia Channel"
+    },
+	{
+      "url":"https://alitv.livebox.co.in/alitvhls/live.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/AliChannel.jpg",
+      "title":"Ali Channel"
+    },
+	{
+      "url":"https://5e74a9d684b2e.streamlock.net/liveTrans/channel1/chunklist_w1084646205.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/Hadi-TV1.jpg",
+      "title":"Hadi TV 1"
+    },
+		{
+      "url":"https://5e74a9d684b2e.streamlock.net/liveTrans/channel2/chunklist_w882018385.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/Hadi-TV2.jpg",
+      "title":"Hadi TV 2"
+    },
+			{
+      "url":"https://5e74a9d684b2e.streamlock.net/liveTrans/channel3/chunklist_w1143930101.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/Hadi-TV3.jpg",
+      "title":"Hadi TV 3"
+    },
+			{
+      "url":"https://5e74a9d684b2e.streamlock.net/liveTrans/channel4/chunklist_w427884171.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/Hadi-TV4.jpg",
+      "title":"Hadi TV 4"
+    },
+			{
+      "url":"https://5e74a9d684b2e.streamlock.net/livetrans2/channel6/chunklist_w422224640.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/Hadi-TV5.jpg",
+      "title":"Hadi TV 5"
+    },
+			{
+      "url":"https://5e74a9d684b2e.streamlock.net/livetrans2/channel23/chunklist_w1963748340.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/Hadi-TV6.jpg",
+      "title":"Hadi TV 6"
+    }
+  ]
+}
