@@ -2,17 +2,17 @@
   "channels": [
     {
       "url":"https://ir13.live21.ir/hls/rozeh_2.m3u8",
-      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/RezaShrine.jpg",
       "title":"Roza -E- Imam Raza (a.s)"
     },
 	{
       "url":"https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/chunklist.m3u8",
-      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/HazratAbbas.jpg",
       "title":"Hazrat Abbas (a.s)"
     },
 	{
       "url":"https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/chunklist.m3u8",
-      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/AliChannel.jpg",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/baynulharmain.jpg",
       "title":"Baynul Harmain"
     }
 
