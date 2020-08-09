@@ -42,8 +42,38 @@
     },
 			{
       "url":"https://5e74a9d684b2e.streamlock.net/livetrans2/channel23/chunklist_w1963748340.m3u8",
-      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/Hadi-TV6.jpg",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/haditv6.jpg",
       "title":"Hadi TV 6"
+    },
+		{
+      "url":"https://5e74a9d684b2e.streamlock.net/liveTrans/channel5/chunklist_w1221729165.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/dua.jpg",
+      "title":"Dua TV"
+    },
+		{
+      "url":"https://5e74a9d684b2e.streamlock.net/liveTrans/channel5/chunklist_w1221729165.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/almahdipak.jpg",
+      "title":"Al Mahdi TV"
+    },
+	{
+      "url":"http://109.123.126.10:1935/live/livestream1.sdp/chunklist_w2048393737.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/ahlulbayt.jpg",
+      "title":"Ahlulbayt TV"
+    },
+	{
+      "url":"http://109.123.126.10:1935/live/livestream1.sdp/chunklist_w214369027.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/ahlebait.jpg",
+      "title":"Ahlebait TV"
+    },
+	{
+      "url":"https://5928f90056f31.streamlock.net/hidayat-live/hidayat/chunklist_w1094015901.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/hidayat.jpg",
+      "title":"Hidayat Tv"
+    },
+	{
+      "url":"http://live.imamhossaintv.com/live/ih303/index.m3u8",
+      "imageurl":"https://abbasrizvidev.github.io/LitreallyDataRepository/Images/ht3.jpg",
+      "title":"Imam Hussain(a.s) Tv"
     }
   ]
 }
