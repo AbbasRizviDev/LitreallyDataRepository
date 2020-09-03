@@ -4,8 +4,10 @@
 http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png" group-title="Religious",Channel WIN
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Aalami_Samay.jpeg/revision/latest?cb=20191228181716" group-title="News",Aalami Samay
+https://m-c08-j2apps.s.llnwi.net/hls/0375.AalamiSamay.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/9/2/csm_16552-1592_company_import_47d277c15d.jpg" group-title="News",NDTV
-https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/bfba0dee-49e8-4bf9-a2d7-17f841b1fe2c:SIN/master.m3u8
+https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/d5177de9-d619-4cd2-9d93-1b9d5e588ec3:SIN2/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/CNBC_Bajar.svg/revision/latest?cb=20171105181209" group-title="News",CNBC Bajar
